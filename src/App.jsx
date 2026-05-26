@@ -7,7 +7,7 @@ import { useState, useEffect, useCallback } from 'react'
 // 3. Click Save — copy the ID from the URL (the part after /bins/)
 // 4. Paste it below
 // ---------------------------------------------------------------------------
-const BIN_ID = 8399db356b6e46d1d34e
+const BIN_ID = '8399db356b6e46d1d34e'
 
 const BASE_URL = `https://api.npoint.io/${BIN_ID}`
 
